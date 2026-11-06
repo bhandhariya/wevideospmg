@@ -4,7 +4,7 @@
 export const meta = {
   title: 'मुझे अपना बनाकर छोड़ गए',
   artist: 'Raja Hindustani',
-  duration: 26.0,
+  duration: 31.0,
   audio: '/song/aaye%20na%20sawariya.mp3',
 }
 
@@ -17,6 +17,7 @@ export const sections = [
   { id: 'radha_grief', label: 'राधा विरह (Radha Grief)', start: 10.0, end: 15.0, color: '#6e2b2b' },
   { id: 'chorus_1', label: 'मुखड़ा (मुझे अपना बनाकर)', start: 15.0, end: 20.5, color: '#8c2f2f' },
   { id: 'chorus_2', label: 'मुखड़ा (आए ना सवरिया)', start: 20.5, end: 25.5, color: '#6b3030' },
+  { id: 'chorus_3', label: 'मुखड़ा (मुझे अपना बनाकर २)', start: 25.5, end: 30.5, color: '#8c2f2f' },
 ]
 
 export const credits = [
@@ -180,7 +181,7 @@ export const tracks = [
     id: 'ambient_dust',
     type: 'particle',
     start: 0.0,
-    end: 26.0,
+    end: 31.0,
     particle: {
       count: 22,
       color: 'rgba(215, 190, 160, 0.35)',
@@ -484,6 +485,37 @@ export const shots = [
       },
     ],
   },
+  {
+    id: 's07',
+    start: 25.2,
+    end: 30.8,
+    file: 'plate_05b_empty_jhula.png',
+    src: '/assets/paper/plate_05b_empty_jhula.png',
+    fade: 0.8,
+    transition: { type: 'smoke-bloom', duration: 1.0 },
+    effects: {
+      vignette: { strength: 0.30, size: 70 },
+      colorGrade: { contrast: 1.08, brightness: 1.02, saturate: 1.05 },
+    },
+    camera: { scaleStart: 1.0, scaleEnd: 1.06, originStartX: 45, originStartY: 52, originEndX: 52, originEndY: 48 },
+    layers: [
+      {
+        id: 'radha_curled_grief',
+        src: '/assets/paper/cast_radha/radha_004_curled_figure_hiding_grief.png',
+        start: 25.4,
+        end: 30.8,
+        enter: { type: 'smoke-dissolve', duration: 0.9 },
+        living: { type: 'pulse', amp: 0.02, period: 3.5 },
+        position: {
+          bottom: '8%',
+          left: '10%',
+          width: '28%',
+        },
+        blend: 'normal',
+        zIndex: 3,
+      },
+    ],
+  },
 ]
 
 export const lyricLines = [
@@ -525,6 +557,33 @@ export const lyricLines = [
       { text: 'ना', time: 21.0 },
       { text: 'सवरिया', time: 22.0 },
       { text: 'बेदरदी', time: 24.0 },
+    ],
+    wordReveal: { type: 'ink-draw' },
+    enter: { type: 'glow-in', duration: 0.5 },
+    exit: { type: 'smoke-out', duration: 0.5 },
+    style: {
+      fontFamily: "'Rozha One', 'Tiro Devanagari Hindi', serif",
+      fontSize: '3.8vw',
+      fontWeight: '700',
+      letterSpacing: '0.08em',
+      activeColor: '#9b2b2b',
+      sungColor: '#2a1a12',
+      textShadow: '0 2px 10px rgba(0, 0, 0, 0.25), 0 0 20px rgba(220, 140, 50, 0.35)',
+    },
+    living: { type: 'pulse', amp: 0.015, period: 3.5 },
+  },
+  {
+    id: 'l03',
+    start: 25.0,
+    end: 30.5,
+    anchor: 'center',
+    position: { top: '86%', left: '53%', transform: 'translate(-50%, -50%)', textAlign: 'center' },
+    words: [
+      { text: 'मुझे', time: 25.0 },
+      { text: 'अपना', time: 26.0 },
+      { text: 'बनाकर', time: 27.0 },
+      { text: 'छोड़', time: 29.0 },
+      { text: 'गए', time: 30.0 },
     ],
     wordReveal: { type: 'ink-draw' },
     enter: { type: 'glow-in', duration: 0.5 },
