@@ -1,0 +1,422 @@
+[
+  {
+    "index": 1,
+    "original": "Abandoned_stone_ghat_at_twilight_82fb3639.jpg",
+    "filename": "bg_001_abandoned_stone_ghat_at_twilight.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_001_abandoned_stone_ghat_at_twilight.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 2,
+    "original": "Barsana_village_at_dusk_2c7ef0ca.jpg",
+    "filename": "bg_002_barsana_village_at_dusk.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_002_barsana_village_at_dusk.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 3,
+    "original": "Barsana_village_landscape_at_dusk_840eb0f2.jpg",
+    "filename": "bg_003_barsana_village_landscape_at_dusk.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_003_barsana_village_landscape_at_dusk.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 4,
+    "original": "Crumbling_river_quay_at_sunset_77c83858.jpg",
+    "filename": "bg_004_crumbling_river_quay_at_sunset.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_004_crumbling_river_quay_at_sunset.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 5,
+    "original": "Curtains_billowing_at_sandstone_…_d79228a2.jpg",
+    "filename": "bg_005_curtains_billowing_at_sandstone.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_005_curtains_billowing_at_sandstone.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 6,
+    "original": "Deserted_stone_bathing_ghat_twil…_eb70b495.jpg",
+    "filename": "bg_006_deserted_stone_bathing_ghat_twil.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_006_deserted_stone_bathing_ghat_twil.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 7,
+    "original": "Distant_road_toward_Mathura_hills_cc5518a9.jpg",
+    "filename": "bg_007_distant_road_toward_mathura_hills.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_007_distant_road_toward_mathura_hills.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 8,
+    "original": "Empty_courtyard_garden_at_twilight_4b4ee93c.jpg",
+    "filename": "bg_008_empty_courtyard_garden_at_twilight.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_008_empty_courtyard_garden_at_twilight.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 9,
+    "original": "Empty_courtyard_garden_with_flowers_5cc2a2af.jpg",
+    "filename": "bg_009_empty_courtyard_garden_with_flowers.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_009_empty_courtyard_garden_with_flowers.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 10,
+    "original": "Empty_dusty_road_at_sunset_e1667cc5.jpg",
+    "filename": "bg_010_empty_dusty_road_at_sunset.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_010_empty_dusty_road_at_sunset.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 11,
+    "original": "Empty_palace_corridor_at_twilight_3cc8d845.jpg",
+    "filename": "bg_011_empty_palace_corridor_at_twilight.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_011_empty_palace_corridor_at_twilight.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 12,
+    "original": "Empty_palace_corridor_with_shadows_07f6e088.jpg",
+    "filename": "bg_012_empty_palace_corridor_with_shadows.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_012_empty_palace_corridor_with_shadows.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 13,
+    "original": "Empty_pathway_with_fading_footpr…_988478f3.jpg",
+    "filename": "bg_013_empty_pathway_with_fading_footpr.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_013_empty_pathway_with_fading_footpr.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 14,
+    "original": "Empty_pathway_with_fading_footpr…_fed2f077.jpg",
+    "filename": "bg_014_empty_pathway_with_fading_footpr.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_014_empty_pathway_with_fading_footpr.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 15,
+    "original": "Empty_royal_courtyard_at_dusk_0827d56d.jpg",
+    "filename": "bg_015_empty_royal_courtyard_at_dusk.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_015_empty_royal_courtyard_at_dusk.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 16,
+    "original": "Empty_royal_courtyard_at_dusk_8cefc8e9.jpg",
+    "filename": "bg_016_empty_royal_courtyard_at_dusk.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_016_empty_royal_courtyard_at_dusk.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 17,
+    "original": "Empty_sandy_river_beach_tide_2f06cf07.jpg",
+    "filename": "bg_017_empty_sandy_river_beach_tide.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_017_empty_sandy_river_beach_tide.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 18,
+    "original": "Empty_trail_through_golden_grass_adc5f28c.jpg",
+    "filename": "bg_018_empty_trail_through_golden_grass.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_018_empty_trail_through_golden_grass.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 19,
+    "original": "Empty_trail_through_grass_fields_45be4339.jpg",
+    "filename": "bg_019_empty_trail_through_grass_fields.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_019_empty_trail_through_grass_fields.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 20,
+    "original": "Empty_village_road_at_sunset_a3d81784.jpg",
+    "filename": "bg_020_empty_village_road_at_sunset.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_020_empty_village_road_at_sunset.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 21,
+    "original": "Footprints_washing_away_on_beach_8d98add9.jpg",
+    "filename": "bg_021_footprints_washing_away_on_beach.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_021_footprints_washing_away_on_beach.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 22,
+    "original": "Lonely_rowboat_at_riverbank_b8112a55.jpg",
+    "filename": "bg_022_lonely_rowboat_at_riverbank.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_022_lonely_rowboat_at_riverbank.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 23,
+    "original": "Lonely_rowboat_at_riverbank_faf3e34b.jpg",
+    "filename": "bg_023_lonely_rowboat_at_riverbank.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_023_lonely_rowboat_at_riverbank.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 24,
+    "original": "Milestone_by_banyan_tree_fa30fe0e.jpg",
+    "filename": "bg_024_milestone_by_banyan_tree.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_024_milestone_by_banyan_tree.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 25,
+    "original": "Mist_over_Yamuna_river_twilight_6ac6a0ff.jpg",
+    "filename": "bg_025_mist_over_yamuna_river_twilight.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_025_mist_over_yamuna_river_twilight.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 26,
+    "original": "Palace_chamber_overlooking_twili…_0c8d1e17.jpg",
+    "filename": "bg_026_palace_chamber_overlooking_twili.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_026_palace_chamber_overlooking_twili.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 27,
+    "original": "Palace_chamber_view_at_twilight_415fb086.jpg",
+    "filename": "bg_027_palace_chamber_view_at_twilight.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_027_palace_chamber_view_at_twilight.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 28,
+    "original": "Pavilion_overlooking_hills_at_dusk_0158514b.jpg",
+    "filename": "bg_028_pavilion_overlooking_hills_at_dusk.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_028_pavilion_overlooking_hills_at_dusk.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 29,
+    "original": "Riverbank_at_dusk_with_lotuses_379a0422.jpg",
+    "filename": "bg_029_riverbank_at_dusk_with_lotuses.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_029_riverbank_at_dusk_with_lotuses.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 30,
+    "original": "Road_leading_toward_distant_hills_c2bd6181.jpg",
+    "filename": "bg_030_road_leading_toward_distant_hills.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_030_road_leading_toward_distant_hills.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 31,
+    "original": "Royal_pavilion_overlooking_hills…_4aa539a8.jpg",
+    "filename": "bg_031_royal_pavilion_overlooking_hills.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_031_royal_pavilion_overlooking_hills.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 32,
+    "original": "Rustic_fence_beside_dusty_track_a3c97acc.jpg",
+    "filename": "bg_032_rustic_fence_beside_dusty_track.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_032_rustic_fence_beside_dusty_track.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 33,
+    "original": "Rustic_wooden_fence_twilight_lan…_d69d24af.jpg",
+    "filename": "bg_033_rustic_wooden_fence_twilight_lan.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_033_rustic_wooden_fence_twilight_lan.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 34,
+    "original": "Sacred_Yamuna_water_twilight_glow_3f8ead18.jpg",
+    "filename": "bg_034_sacred_yamuna_water_twilight_glow.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_034_sacred_yamuna_water_twilight_glow.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 35,
+    "original": "Sandstone_balcony_overlooking_em…_2a6c9648.jpg",
+    "filename": "bg_035_sandstone_balcony_overlooking_em.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_035_sandstone_balcony_overlooking_em.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 36,
+    "original": "Sandstone_balcony_overlooking_em…_638a1763.jpg",
+    "filename": "bg_036_sandstone_balcony_overlooking_em.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_036_sandstone_balcony_overlooking_em.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 37,
+    "original": "Sandstone_terrace_with_glowing_d…_126f18cf.jpg",
+    "filename": "bg_037_sandstone_terrace_with_glowing_d.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_037_sandstone_terrace_with_glowing_d.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 38,
+    "original": "Sandstone_terrace_with_glowing_d…_eabf77ca.jpg",
+    "filename": "bg_038_sandstone_terrace_with_glowing_d.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_038_sandstone_terrace_with_glowing_d.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 39,
+    "original": "Sandstone_village_gate_at_twilight_4aa4366a.jpg",
+    "filename": "bg_039_sandstone_village_gate_at_twilight.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_039_sandstone_village_gate_at_twilight.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 40,
+    "original": "Sandstone_village_gate_at_twilight_ca4d5e87.jpg",
+    "filename": "bg_040_sandstone_village_gate_at_twilight.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_040_sandstone_village_gate_at_twilight.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 41,
+    "original": "Sandstone_window_with_billowing_…_a15ba580.jpg",
+    "filename": "bg_041_sandstone_window_with_billowing.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_041_sandstone_window_with_billowing.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 42,
+    "original": "Serene_Yamuna_river_at_dusk_c0befe82.jpg",
+    "filename": "bg_042_serene_yamuna_river_at_dusk.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_042_serene_yamuna_river_at_dusk.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 43,
+    "original": "Stone_archway_overlooking_desert…_0ffe75c3.jpg",
+    "filename": "bg_043_stone_archway_overlooking_desert.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_043_stone_archway_overlooking_desert.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 44,
+    "original": "Stone_archway_overlooking_desert…_f76fb864.jpg",
+    "filename": "bg_044_stone_archway_overlooking_desert.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_044_stone_archway_overlooking_desert.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 45,
+    "original": "Stone_balustrade_overlooking_des…_e04d9bca.jpg",
+    "filename": "bg_045_stone_balustrade_overlooking_des.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_045_stone_balustrade_overlooking_des.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 46,
+    "original": "Stone_balustrade_overlooking_des…_e5cfc3de.jpg",
+    "filename": "bg_046_stone_balustrade_overlooking_des.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_046_stone_balustrade_overlooking_des.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 47,
+    "original": "Stone_milestone_by_banyan_tree_33bc8342.jpg",
+    "filename": "bg_047_stone_milestone_by_banyan_tree.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_047_stone_milestone_by_banyan_tree.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 48,
+    "original": "Stone_pavilion_by_river_at_4f1163f8.jpg",
+    "filename": "bg_048_stone_pavilion_by_river_at.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_048_stone_pavilion_by_river_at.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 49,
+    "original": "Stone_pavilion_on_river_at_4995e684.jpg",
+    "filename": "bg_049_stone_pavilion_on_river_at.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_049_stone_pavilion_on_river_at.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 50,
+    "original": "Sunset_over_river_quay_485f8e17.jpg",
+    "filename": "bg_050_sunset_over_river_quay.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_050_sunset_over_river_quay.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 51,
+    "original": "Twilight_dust_road_landscape_456a2163.jpg",
+    "filename": "bg_051_twilight_dust_road_landscape.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_051_twilight_dust_road_landscape.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 52,
+    "original": "Twilight_riverbank_with_lotus_fl…_f0834ecf.jpg",
+    "filename": "bg_052_twilight_riverbank_with_lotus_fl.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_052_twilight_riverbank_with_lotus_fl.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 53,
+    "original": "Twilight_sky_reflecting_sacred_w…_29760121.jpg",
+    "filename": "bg_053_twilight_sky_reflecting_sacred_w.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_053_twilight_sky_reflecting_sacred_w.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 54,
+    "original": "Village_road_at_sunset_9d5b77cd.jpg",
+    "filename": "bg_054_village_road_at_sunset.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_054_village_road_at_sunset.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 55,
+    "original": "Wooden_door_in_stone_wall_0bed5253.jpg",
+    "filename": "bg_055_wooden_door_in_stone_wall.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_055_wooden_door_in_stone_wall.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 56,
+    "original": "Wooden_door_in_stone_wall_13098499.jpg",
+    "filename": "bg_056_wooden_door_in_stone_wall.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_056_wooden_door_in_stone_wall.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 57,
+    "original": "Yamuna_river_ghat_at_dusk_d6aecf4d.jpg",
+    "filename": "bg_057_yamuna_river_ghat_at_dusk.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_057_yamuna_river_ghat_at_dusk.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 58,
+    "original": "Yamuna_river_view_at_twilight_2a253203.jpg",
+    "filename": "bg_058_yamuna_river_view_at_twilight.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_058_yamuna_river_view_at_twilight.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 59,
+    "original": "Yamuna_riverbank_landscape_at_tw…_4737c72d.jpg",
+    "filename": "bg_059_yamuna_riverbank_landscape_at_tw.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_059_yamuna_riverbank_landscape_at_tw.jpg",
+    "fileType": "jpg"
+  },
+  {
+    "index": 60,
+    "original": "Yamuna_riverbank_twilight_landscape_31c4306a.jpg",
+    "filename": "bg_060_yamuna_riverbank_twilight_landscape.jpg",
+    "path": "/assets/paper/backgrounds_real/bg_060_yamuna_riverbank_twilight_landscape.jpg",
+    "fileType": "jpg"
+  }
+]
