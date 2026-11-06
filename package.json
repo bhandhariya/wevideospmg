@@ -13,6 +13,8 @@
     "export-full": "node scripts/exportVideo.js --duration full --output song_full_video.mp4",
     "process-radha": "node scripts/processRadhaCast.js",
     "process-krishna": "node scripts/processKrishnaCast.js",
+    "process-krishna-real": "node scripts/processKrishnaRealCast.js",
+    "process-radha-real": "node scripts/processRadhaRealCast.js",
     "process-all-cast": "node scripts/processRadhaCast.js && node scripts/processKrishnaCast.js",
     "clean-cast": "node scripts/cleanCastImages.js"
   },

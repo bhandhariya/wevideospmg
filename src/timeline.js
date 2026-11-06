@@ -617,6 +617,7 @@ export const shots = [
         src: '/assets/paper/cast_radha/radha_010_standing_in_quiet_dignity.png',
         start: 35.4,
         end: 40.8,
+        removeBg: false,
         enter: { type: 'smoke-dissolve', duration: 0.9 },
         living: { type: 'pulse', amp: 0.02, period: 3.5 },
         position: {
