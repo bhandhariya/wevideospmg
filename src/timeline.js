@@ -4,7 +4,7 @@
 export const meta = {
   title: 'मुझे अपना बनाकर छोड़ गए',
   artist: 'Raja Hindustani',
-  duration: 10.0,
+  duration: 15.5,
   audio: '/song/aaye%20na%20sawariya.mp3',
 }
 
@@ -14,7 +14,7 @@ export const sections = [
   { id: 'intro', label: 'प्रस्तावना (Title)', start: 0.0, end: 5.0, color: '#c99e64' },
   { id: 'krishna_viraha', label: 'कृष्ण दर्शन (Krishna Glance)', start: 5.0, end: 7.5, color: '#3f5e78' },
   { id: 'barsana_longing', label: 'स्मृति वियोग (Separation)', start: 7.5, end: 10.0, color: '#8c4a4a' },
-  { id: 'shloka_climax', label: 'विरह श्लोक (Prologue)', start: 10.0, end: 15.0, color: '#4a5d4e' },
+  { id: 'radha_grief', label: 'राधा विरह (Radha Grief)', start: 10.0, end: 15.0, color: '#6e2b2b' },
 ]
 
 export const credits = [
@@ -141,19 +141,6 @@ export const credits = [
     enter: { type: 'slide-down', duration: 0.7 },
     exit: { type: 'fade-out', duration: 0.5 },
   },
-  {
-    id: 'shloka',
-    text: '',
-    subtext: '— विरह भाव (राधा-कृष्ण वियोग)',
-    start: 9.2,
-    end: 15.0,
-    isShloka: true,
-    position: { top: '24%', right: '8%', textAlign: 'right' },
-    motion: { yStart: 10, yEnd: -5 },
-    living: { type: 'float', amp: 2.5, period: 4 },
-    enter: { type: 'fade-in', duration: 0.8 },
-    exit: { type: 'fade-out', duration: 0.6 },
-  },
 ]
 
 export const tracks = [
@@ -191,7 +178,7 @@ export const tracks = [
     id: 'ambient_dust',
     type: 'particle',
     start: 0.0,
-    end: 15.0,
+    end: 15.5,
     particle: {
       count: 22,
       color: 'rgba(215, 190, 160, 0.35)',
@@ -201,6 +188,21 @@ export const tracks = [
     },
     blend: 'screen',
     zIndex: 5,
+  },
+  {
+    id: 'crescendo_sparkle',
+    type: 'particle',
+    start: 13.2,
+    end: 15.5,
+    particle: {
+      count: 24,
+      color: 'rgba(255, 215, 120, 0.8)',
+      sizeRange: [2.5, 5.5],
+      speedRange: [0.8, 1.8],
+      drift: 'float-up',
+    },
+    blend: 'screen',
+    zIndex: 7,
   },
   // {
   //   id: 'intro_scene_callout',
@@ -361,6 +363,37 @@ export const shots = [
           top: '42%',
           left: '42%',
           width: '18%',
+        },
+        blend: 'normal',
+        zIndex: 3,
+      },
+    ],
+  },
+  {
+    id: 's04',
+    start: 9.8,
+    end: 15.5,
+    file: 'plate_08b_radha_grief.png',
+    src: '/assets/paper/plate_08b_radha_grief.png',
+    fade: 0.8,
+    transition: { type: 'ink-wash', duration: 1.0 },
+    effects: {
+      vignette: { strength: 0.32, size: 68 },
+      colorGrade: { contrast: 1.08, brightness: 1.02, saturate: 1.04 },
+    },
+    camera: { scaleStart: 1.0, scaleEnd: 1.07, originStartX: 48, originStartY: 46, originEndX: 52, originEndY: 44 },
+    layers: [
+      {
+        id: 'viraha_diya',
+        src: '/assets/paper/ref_clay_diya_flickering.png',
+        start: 10.2,
+        end: 15.5,
+        enter: { type: 'glow-in', duration: 0.8 },
+        living: { type: 'flicker', amp: 0.08 },
+        position: {
+          bottom: '10%',
+          left: '12%',
+          width: '13%',
         },
         blend: 'normal',
         zIndex: 3,
