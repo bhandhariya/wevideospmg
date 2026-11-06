@@ -4,7 +4,7 @@
 export const meta = {
   title: 'मुझे अपना बनाकर छोड़ गए',
   artist: 'Raja Hindustani',
-  duration: 36.0,
+  duration: 41.0,
   audio: '/song/aaye%20na%20sawariya.mp3',
 }
 
@@ -19,6 +19,7 @@ export const sections = [
   { id: 'chorus_2', label: 'मुखड़ा (आए ना सवरिया)', start: 20.5, end: 25.5, color: '#6b3030' },
   { id: 'chorus_3', label: 'मुखड़ा (मुझे अपना बनाकर २)', start: 25.5, end: 30.5, color: '#8c2f2f' },
   { id: 'chorus_4', label: 'मुखड़ा (आए ना सवरिया २)', start: 30.5, end: 35.5, color: '#6b3030' },
+  { id: 'chorus_5', label: 'मुखड़ा (मुझे अपना बनाकर ३)', start: 35.5, end: 40.5, color: '#8c2f2f' },
 ]
 
 export const credits = [
@@ -182,7 +183,7 @@ export const tracks = [
     id: 'ambient_dust',
     type: 'particle',
     start: 0.0,
-    end: 36.0,
+    end: 41.0,
     particle: {
       count: 22,
       color: 'rgba(215, 190, 160, 0.35)',
@@ -597,6 +598,52 @@ export const shots = [
       },
     ],
   },
+  {
+    id: 's09',
+    start: 35.2,
+    end: 40.8,
+    file: 'plate_10a_sunset_empty_path.png',
+    src: '/assets/paper/plate_10a_sunset_empty_path.png',
+    fade: 0.8,
+    transition: { type: 'ink-burst', duration: 0.8 },
+    effects: {
+      vignette: { strength: 0.32, size: 68 },
+      colorGrade: { contrast: 1.09, brightness: 1.01, saturate: 1.08 },
+    },
+    camera: { scaleStart: 1.0, scaleEnd: 1.06, originStartX: 52, originStartY: 48, originEndX: 48, originEndY: 52 },
+    layers: [
+      {
+        id: 'radha_sunset_dignity',
+        src: '/assets/paper/cast_radha/radha_010_standing_in_quiet_dignity.png',
+        start: 35.4,
+        end: 40.8,
+        enter: { type: 'smoke-dissolve', duration: 0.9 },
+        living: { type: 'pulse', amp: 0.02, period: 3.5 },
+        position: {
+          bottom: '8%',
+          left: '10%',
+          width: '28%',
+        },
+        blend: 'normal',
+        zIndex: 3,
+      },
+      {
+        id: 'sacred_crow_viraha',
+        src: '/assets/paper/ref_sacred_crow_viraha.png',
+        start: 35.5,
+        end: 40.8,
+        enter: { type: 'float-up', duration: 0.8 },
+        living: { type: 'sway', amp: 2.0, period: 3.8 },
+        position: {
+          top: '14%',
+          right: '14%',
+          width: '16%',
+        },
+        blend: 'normal',
+        zIndex: 3,
+      },
+    ],
+  },
 ]
 
 export const lyricLines = [
@@ -691,6 +738,33 @@ export const lyricLines = [
       { text: 'ना', time: 31.0 },
       { text: 'सवरिया', time: 32.0 },
       { text: 'बेदरदी', time: 34.0 },
+    ],
+    wordReveal: { type: 'ink-draw' },
+    enter: { type: 'glow-in', duration: 0.5 },
+    exit: { type: 'smoke-out', duration: 0.5 },
+    style: {
+      fontFamily: "'Rozha One', 'Tiro Devanagari Hindi', serif",
+      fontSize: '3.8vw',
+      fontWeight: '700',
+      letterSpacing: '0.08em',
+      activeColor: '#9b2b2b',
+      sungColor: '#2a1a12',
+      textShadow: '0 2px 10px rgba(0, 0, 0, 0.25), 0 0 20px rgba(220, 140, 50, 0.35)',
+    },
+    living: { type: 'pulse', amp: 0.015, period: 3.5 },
+  },
+  {
+    id: 'l05',
+    start: 35.0,
+    end: 40.5,
+    anchor: 'center',
+    position: { top: '28%', left: '42%', transform: 'translate(-50%, -50%)', textAlign: 'center' },
+    words: [
+      { text: 'मुझे', time: 35.0 },
+      { text: 'अपना', time: 36.0 },
+      { text: 'बनाकर', time: 37.0 },
+      { text: 'छोड़', time: 39.0 },
+      { text: 'गए', time: 40.0 },
     ],
     wordReveal: { type: 'ink-draw' },
     enter: { type: 'glow-in', duration: 0.5 },
