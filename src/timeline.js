@@ -401,17 +401,17 @@ export const shots = [
       {
         id: 'krishna_viraha_memory',
         src: '/assets/paper/cast_krishna/krishna_042_looking_back_with_sorrow.png',
-        start: 11.0,
+        start: 10.0,
         end: 15.5,
         enter: { type: 'smoke-dissolve', duration: 1.2 },
         living: { type: 'pulse', amp: 0.025, period: 3.8 },
         keyframes: [
-          { at: 0.0, x: -8, y: 0, scale: 0.94, opacity: 0.8 },
-          { at: 0.5, x: 0, y: -3, scale: 0.98, opacity: 0.95 },
-          { at: 1.0, x: 8, y: 0, scale: 1.02, opacity: 1.0 },
+          { at: 0.0, x: -8, y: 0, scale: 2.10, opacity: 0.8 },
+          { at: 0.5, x: 0, y: -3, scale: 1.10, opacity: 0.95 },
+          { at: 1.0, x: 8, y: 0, scale: 1.12, opacity: 1.0 },
         ],
         position: {
-          top: '12%',
+          top: '32%',
           right: '12%',
           width: '22%',
         },
