@@ -4,7 +4,7 @@
 export const meta = {
   title: 'मुझे अपना बनाकर छोड़ गए',
   artist: 'Raja Hindustani',
-  duration: 31.0,
+  duration: 36.0,
   audio: '/song/aaye%20na%20sawariya.mp3',
 }
 
@@ -18,6 +18,7 @@ export const sections = [
   { id: 'chorus_1', label: 'मुखड़ा (मुझे अपना बनाकर)', start: 15.0, end: 20.5, color: '#8c2f2f' },
   { id: 'chorus_2', label: 'मुखड़ा (आए ना सवरिया)', start: 20.5, end: 25.5, color: '#6b3030' },
   { id: 'chorus_3', label: 'मुखड़ा (मुझे अपना बनाकर २)', start: 25.5, end: 30.5, color: '#8c2f2f' },
+  { id: 'chorus_4', label: 'मुखड़ा (आए ना सवरिया २)', start: 30.5, end: 35.5, color: '#6b3030' },
 ]
 
 export const credits = [
@@ -181,7 +182,7 @@ export const tracks = [
     id: 'ambient_dust',
     type: 'particle',
     start: 0.0,
-    end: 31.0,
+    end: 36.0,
     particle: {
       count: 22,
       color: 'rgba(215, 190, 160, 0.35)',
@@ -516,6 +517,37 @@ export const shots = [
       },
     ],
   },
+  {
+    id: 's08',
+    start: 30.2,
+    end: 35.8,
+    file: 'plate_07b_flowing_yamuna.png',
+    src: '/assets/paper/plate_07b_flowing_yamuna.png',
+    fade: 0.8,
+    transition: { type: 'ink-wash', duration: 1.0 },
+    effects: {
+      vignette: { strength: 0.28, size: 72 },
+      colorGrade: { contrast: 1.08, brightness: 1.02, saturate: 1.06 },
+    },
+    camera: { scaleStart: 1.0, scaleEnd: 1.07, originStartX: 40, originStartY: 50, originEndX: 46, originEndY: 46 },
+    layers: [
+      {
+        id: 'radha_yamuna_reeds',
+        src: '/assets/paper/cast_radha/radha_011_walking_parting_river_reeds.png',
+        start: 30.4,
+        end: 35.8,
+        enter: { type: 'smoke-dissolve', duration: 0.9 },
+        living: { type: 'drift', ampX: 4, ampY: 2, period: 4.5 },
+        position: {
+          bottom: '8%',
+          right: '12%',
+          width: '28%',
+        },
+        blend: 'normal',
+        zIndex: 3,
+      },
+    ],
+  },
 ]
 
 export const lyricLines = [
@@ -584,6 +616,32 @@ export const lyricLines = [
       { text: 'बनाकर', time: 27.0 },
       { text: 'छोड़', time: 29.0 },
       { text: 'गए', time: 30.0 },
+    ],
+    wordReveal: { type: 'ink-draw' },
+    enter: { type: 'glow-in', duration: 0.5 },
+    exit: { type: 'smoke-out', duration: 0.5 },
+    style: {
+      fontFamily: "'Rozha One', 'Tiro Devanagari Hindi', serif",
+      fontSize: '3.8vw',
+      fontWeight: '700',
+      letterSpacing: '0.08em',
+      activeColor: '#9b2b2b',
+      sungColor: '#2a1a12',
+      textShadow: '0 2px 10px rgba(0, 0, 0, 0.25), 0 0 20px rgba(220, 140, 50, 0.35)',
+    },
+    living: { type: 'pulse', amp: 0.015, period: 3.5 },
+  },
+  {
+    id: 'l04',
+    start: 30.0,
+    end: 35.6,
+    anchor: 'center',
+    position: { top: '28%', left: '60%', transform: 'translate(-50%, -50%)', textAlign: 'center' },
+    words: [
+      { text: 'आए', time: 30.0 },
+      { text: 'ना', time: 31.0 },
+      { text: 'सवरिया', time: 32.0 },
+      { text: 'बेदरदी', time: 34.0 },
     ],
     wordReveal: { type: 'ink-draw' },
     enter: { type: 'glow-in', duration: 0.5 },
