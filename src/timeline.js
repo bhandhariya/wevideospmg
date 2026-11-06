@@ -194,24 +194,24 @@ export const tracks = [
     blend: 'screen',
     zIndex: 5,
   },
-  {
-    id: 'intro_scene_callout',
-    type: 'text',
-    start: 0.2,
-    end: 4.5,
-    text: '॥ श्री राधा कृष्ण विरह चरितम् ॥',
-    position: { top: '16%', left: '28%', textAlign: 'left' },
-    motion: { xStart: -15, xEnd: 0 },
-    style: {
-      fontSize: '3.3vw',
-      color: '#8c2f2f',
-      letterSpacing: '0.16em',
-      textShadow: '0 0 10px rgba(140, 47, 47, 0.35)',
-    },
-    enter: { type: 'glow-in', duration: 0.4 },
-    exit: { type: 'fade-out', duration: 0.5 },
-    zIndex: 15,
-  },
+  // {
+  //   id: 'intro_scene_callout',
+  //   type: 'text',
+  //   start: 0.2,
+  //   end: 4.5,
+  //   text: '॥ श्री राधा कृष्ण विरह चरितम् ॥',
+  //   position: { top: '16%', left: '28%', textAlign: 'left' },
+  //   motion: { xStart: -15, xEnd: 0 },
+  //   style: {
+  //     fontSize: '3.3vw',
+  //     color: '#8c2f2f',
+  //     letterSpacing: '0.16em',
+  //     textShadow: '0 0 10px rgba(140, 47, 47, 0.35)',
+  //   },
+  //   enter: { type: 'glow-in', duration: 0.4 },
+  //   exit: { type: 'fade-out', duration: 0.5 },
+  //   zIndex: 15,
+  // },
 ]
 
 export const shots = [
